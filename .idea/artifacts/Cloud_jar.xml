@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Cloud:jar">
+    <output-path>$USER_HOME$/Downloads</output-path>
+    <root id="archive" name="Cloud.jar">
+      <element id="module-output" name="Cloud" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/jar_files (6)/json-20201115.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
